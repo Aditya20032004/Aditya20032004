@@ -63,7 +63,7 @@ I'm a passionate Computer Science student specializing in AI & ML at VIT Bhopal 
 **VIT Bhopal University**  
 🎓 B.Tech in Computer Science (AI & ML)  
 📊 CGPA: 9.06/10.0  
-📅 2021 - 2025
+📅 2023-2027
 
 **Lucknow Public School**  
 🏆 12th Grade: 88.3% | 10th Grade: 94.5%
@@ -79,7 +79,7 @@ I'm a passionate Computer Science student specializing in AI & ML at VIT Bhopal 
 
 **Deloitte Virtual Internship (Forage)**  
 👨‍💻 AI & Data Engineering Intern  
-📅 Jul 2025 - Present  
+📅 Jul 2025   
 - Practical training in AI, Data Engineering, and Cloud Computing
 
 ## 📊 GitHub Stats
